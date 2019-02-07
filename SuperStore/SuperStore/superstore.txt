@@ -1,0 +1,42 @@
+﻿Books, 5
+Hobbit, 10, 15.00
+Cooking, 4, 17.99
+1984, 6, 13.99
+War and Peace, 5, 12.99
+Charlotte, 7, 9.99
+Food, 10
+Apple, 50, .50
+Banana, 50, .75
+Orange, 45, .70
+Chicken, 20, 7.99
+Steak, 15, 13.99
+Fish, 15, 11.99
+Almonds, 24, 4.99
+Spinach, 38, 1.99
+Peppers, 32, 1.99
+Broccoli, 35, 2.99
+Video, 7
+The Martian, 16, 21.99
+Avengers, 10, 24.99
+Jaws, 15, 15.99
+Catch-22, 5, 12.99
+Tarzan, 6, 15.00
+Outlander, 10, 17.99
+Red Planet, 4, 21.99
+Sports, 4
+Dumbells, 10, 39.99
+PullupBar, 10, 25.00
+YogaMat, 25, 13.99
+StopWatch, 20, 20.99
+Stationary, 4
+Notebook, 20, .99
+Pens, 50, .50
+Pencils, 25, 0.09
+Post It Notes, 30, 4.99
+Tools, 6
+Band Saw, 3, 299.99
+Cresent Wrench, 12, 8.49
+Circular Saw, 5, 89.99
+Tile Cutter, 2, 149.99
+Screwdriver, 70, 2.99
+Measuring Tape, 34, 10.99

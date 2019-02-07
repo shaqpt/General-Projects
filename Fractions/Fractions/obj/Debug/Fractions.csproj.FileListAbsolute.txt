@@ -1,0 +1,15 @@
+U:\visual studio 2013\Projects\Fractions\Fractions\bin\Debug\Fractions.exe.config
+U:\visual studio 2013\Projects\Fractions\Fractions\obj\Debug\Fractions.csprojResolveAssemblyReference.cache
+U:\visual studio 2013\Projects\Fractions\Fractions\bin\Debug\Fractions.exe
+U:\visual studio 2013\Projects\Fractions\Fractions\bin\Debug\Fractions.pdb
+U:\visual studio 2013\Projects\Fractions\Fractions\obj\Debug\Fractions.exe
+U:\visual studio 2013\Projects\Fractions\Fractions\obj\Debug\Fractions.pdb
+E:\ECE 264\Lab 3 - bad\Fractions\Fractions\bin\Debug\Fractions.exe.config
+E:\ECE 264\Lab 3 - bad\Fractions\Fractions\obj\Debug\Fractions.exe
+E:\ECE 264\Lab 3 - bad\Fractions\Fractions\obj\Debug\Fractions.pdb
+E:\ECE 264\Lab 3 - bad\Fractions\Fractions\bin\Debug\Fractions.exe
+E:\ECE 264\Lab 3 - bad\Fractions\Fractions\bin\Debug\Fractions.pdb
+E:\ECE 264\Lab 3 - bad\Fractions\Fractions\obj\Debug\Fractions.csprojResolveAssemblyReference.cache
+M:\ECE-264\stardif\Fractions\Fractions\bin\Debug\Fractions.exe.config
+M:\ECE-264\stardif\Fractions\Fractions\obj\Debug\Fractions.exe
+M:\ECE-264\stardif\Fractions\Fractions\obj\Debug\Fractions.pdb

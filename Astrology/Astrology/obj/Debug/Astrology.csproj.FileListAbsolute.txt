@@ -1,0 +1,12 @@
+Z:\ECE 264\Astrology\Astrology\bin\Debug\Astrology.exe.config
+Z:\ECE 264\Astrology\Astrology\bin\Debug\Astrology.exe
+Z:\ECE 264\Astrology\Astrology\bin\Debug\Astrology.pdb
+Z:\ECE 264\Astrology\Astrology\obj\Debug\Astrology.csprojResolveAssemblyReference.cache
+Z:\ECE 264\Astrology\Astrology\obj\Debug\Astrology.exe
+Z:\ECE 264\Astrology\Astrology\obj\Debug\Astrology.pdb
+M:\ECE-264\stardif\Astrology\Astrology\bin\Debug\Astrology.exe.config
+M:\ECE-264\stardif\Astrology\Astrology\obj\Debug\Astrology.exe
+M:\ECE-264\stardif\Astrology\Astrology\obj\Debug\Astrology.pdb
+M:\ECE-264\stardif\Astrology\Astrology\bin\Debug\Astrology.exe
+M:\ECE-264\stardif\Astrology\Astrology\bin\Debug\Astrology.pdb
+M:\ECE-264\stardif\Astrology\Astrology\obj\Debug\Astrology.csprojResolveAssemblyReference.cache

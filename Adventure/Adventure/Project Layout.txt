@@ -1,0 +1,16 @@
+Prompts (user will hit enter after each line)
+
+Introduction - explains movement system and how to traverse the different areas of the map
+
+User will then play as Connor and be able to control his movements
+
+Quit/Exit - to leave the game at any time (the game will not be saved)
+switch case statements for Win/End game
+
+
+
+Lists - Inventory (backback, storage area)
+
+crafting table - if(user has item1 and item2, give user item x, take away items1 and 2)
+
+User picks up item

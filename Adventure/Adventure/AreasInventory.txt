@@ -1,0 +1,57 @@
+Area 0, 6
+Water, 100
+Bananas, 5
+Grapes, 10
+Wood, 100
+Scrap Metal, 3
+String, 4
+Area 1, 1
+Motor Piece 1, 1
+Area 2, 2
+Information, 1
+Golden Key, 1
+Area 3, 2
+Star Trek References, 1
+Toy Model of the Enterprise, 1
+Area 4, 10
+Fuel, 1
+Tops, 6
+Jeans, 3
+Hairspray, 7
+Cake Mix, 1
+Soda, 3
+Candy, 4
+Brush, 3
+Paint, 1
+Necklace that says "You're a WINNA-mon!", 1
+Area 5, 1
+Button, 1
+Area 6, 1
+Motor Piece 2, 1
+Area 7, 7
+Pie, 1
+Corn Muffin, 6
+Cake, 4
+Cupcake, 12
+Donut, 6
+Brownie, 7
+Cookie, 10
+Area 8, 1
+Good Grade from Prof. Viall, 1
+Area 9, 0
+Area 10, 6
+Fish, 3
+Hanger, 1
+String, 2
+Bananas, 5
+Apples, 6
+Grapes, 4
+Area 11, 8
+Engine Part, 1
+Coins, 200
+Skeleton, 2
+Rats, 3
+Eggs, 2
+Hat, 1
+String, 1
+Dust, 1

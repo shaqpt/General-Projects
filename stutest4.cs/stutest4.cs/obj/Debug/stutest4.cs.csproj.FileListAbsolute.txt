@@ -1,0 +1,12 @@
+Z:\ECE 264\stutest4.cs\stutest4.cs\bin\Debug\stutest4.cs.exe.config
+Z:\ECE 264\stutest4.cs\stutest4.cs\bin\Debug\stutest4.cs.exe
+Z:\ECE 264\stutest4.cs\stutest4.cs\bin\Debug\stutest4.cs.pdb
+Z:\ECE 264\stutest4.cs\stutest4.cs\obj\Debug\stutest4.cs.csprojResolveAssemblyReference.cache
+Z:\ECE 264\stutest4.cs\stutest4.cs\obj\Debug\stutest4.cs.exe
+Z:\ECE 264\stutest4.cs\stutest4.cs\obj\Debug\stutest4.cs.pdb
+M:\ECE-264\stardif\stutest4.cs\stutest4.cs\bin\Debug\stutest4.cs.exe.config
+M:\ECE-264\stardif\stutest4.cs\stutest4.cs\obj\Debug\stutest4.cs.exe
+M:\ECE-264\stardif\stutest4.cs\stutest4.cs\obj\Debug\stutest4.cs.pdb
+M:\ECE-264\stardif\stutest4.cs\stutest4.cs\bin\Debug\stutest4.cs.exe
+M:\ECE-264\stardif\stutest4.cs\stutest4.cs\bin\Debug\stutest4.cs.pdb
+M:\ECE-264\stardif\stutest4.cs\stutest4.cs\obj\Debug\stutest4.cs.csprojResolveAssemblyReference.cache

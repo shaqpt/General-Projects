@@ -1,0 +1,21 @@
+M:\ECE-264\dramsamooj\SuperStore\SuperStore\bin\Debug\SuperStore.exe.config
+M:\ECE-264\dramsamooj\SuperStore\SuperStore\obj\Debug\SuperStore.csprojResolveAssemblyReference.cache
+M:\ECE-264\dramsamooj\SuperStore\SuperStore\bin\Debug\SuperStore.exe
+M:\ECE-264\dramsamooj\SuperStore\SuperStore\bin\Debug\SuperStore.pdb
+M:\ECE-264\dramsamooj\SuperStore\SuperStore\obj\Debug\SuperStore.exe
+M:\ECE-264\dramsamooj\SuperStore\SuperStore\obj\Debug\SuperStore.pdb
+E:\ECE 264\SuperStore\SuperStore\bin\Debug\SuperStore.exe.config
+E:\ECE 264\SuperStore\SuperStore\obj\Debug\SuperStore.exe
+E:\ECE 264\SuperStore\SuperStore\obj\Debug\SuperStore.pdb
+E:\ECE 264\SuperStore\SuperStore\bin\Debug\SuperStore.exe
+E:\ECE 264\SuperStore\SuperStore\bin\Debug\SuperStore.pdb
+E:\ECE 264\SuperStore\SuperStore\obj\Debug\SuperStore.csprojResolveAssemblyReference.cache
+M:\ECE-264\stardif\SuperStore\SuperStore\bin\Debug\SuperStore.exe.config
+M:\ECE-264\stardif\SuperStore\SuperStore\obj\Debug\SuperStore.exe
+M:\ECE-264\stardif\SuperStore\SuperStore\obj\Debug\SuperStore.pdb
+M:\ECE-264\stardif\SuperStore\SuperStore\bin\Debug\SuperStore.exe
+M:\ECE-264\stardif\SuperStore\SuperStore\bin\Debug\SuperStore.pdb
+M:\ECE-264\stardif\SuperStore\SuperStore\obj\Debug\SuperStore.csprojResolveAssemblyReference.cache
+F:\ECE 264\stardif\SuperStore\SuperStore\bin\Debug\SuperStore.exe.config
+F:\ECE 264\stardif\SuperStore\SuperStore\obj\Debug\SuperStore.exe
+F:\ECE 264\stardif\SuperStore\SuperStore\obj\Debug\SuperStore.pdb

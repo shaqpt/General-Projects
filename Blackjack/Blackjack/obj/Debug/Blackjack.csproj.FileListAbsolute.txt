@@ -1,0 +1,6 @@
+E:\ECE 264\Blackjack\Blackjack\bin\Debug\Blackjack.exe.config
+E:\ECE 264\Blackjack\Blackjack\bin\Debug\Blackjack.exe
+E:\ECE 264\Blackjack\Blackjack\bin\Debug\Blackjack.pdb
+E:\ECE 264\Blackjack\Blackjack\obj\Debug\Blackjack.csprojResolveAssemblyReference.cache
+E:\ECE 264\Blackjack\Blackjack\obj\Debug\Blackjack.exe
+E:\ECE 264\Blackjack\Blackjack\obj\Debug\Blackjack.pdb

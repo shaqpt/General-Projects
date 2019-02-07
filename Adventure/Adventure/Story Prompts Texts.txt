@@ -1,0 +1,230 @@
+Welcome to "Game Title", created by ECE264 - Group D
+Group D Members: Shaqueir Tardif, Dylan Souza, Chamberlain Egbunike
+
+Intro to story (user presses enter after each line to continue throughout the story)
+In this text-based adventure game, you play as a Pilot named Connor.
+Connor originates from London, England where he recently purchased a new taildagger (an airplane designed for 1).
+Connor has been invited to special holiday events in Germany and has decided to use his taildagger to get there.
+During the flight, Connor's taildagger undergoes a tragic mechanical failure and the engine gives way.
+Fortunately, Connor had enough control of the airplane to safely land. 
+Unfortunately, he just landed on an unknown and unmapped island.
+It is now your job to find supplies from the island that Connor can use to repair the airplane.
+The required items you need can be found in the Supplies list in your inventory.
+After you have successfully gathered all of the needed materials, you may rebuild your airplane and leave the island.
+
+When at home area, prompt the user the following
+"Items in this area: "
+"-Airplane
+-Storage Area
+-Crafting Table
+-Water
+-Bananas
+-Grapes
+-Wood
+-Scrap Metal
+-String "
+
+To access your inventory, press [i].
+
+Inventory Items:
+Start with just intro guide as the only item (can't be removed or replaced; doesn't count toward the 10 inventory item limit)
+
+From the items below, Connor can only hold 10 at a time within his backback. He must store items in his storage area (located in the home area) in free up more space in his backpack.
+
+Food:
+Water
+Banana
+Strawberry
+Apple - 5
+Grapes - 3
+Oranges -4
+Fish - 1
+Pie
+Eggs
+
+
+Airplane Parts:
+Button
+Motor Part 1
+Motor Part 2
+Fuel
+Spark Plug
+Engine Part
+Good Grade
+
+Miscallaneous:
+Comb
+Hanger
+Toy Model of the Enterprise
+Star Trek References
+Wood
+Scrap Metal
+Toothbrush
+Lightbulb
+Key
+Fishing Rod
+Fighting Gloves
+String
+Hat
+Coin
+Skeleton
+Dust
+
+
+
+Prompt when at area 1
+"Area 1
+Items in this area:
+-Motor Piece 1
+-Entrance to Home Area
+-Entrance to Area 2
+-Entrance to area 4
+-Sign that says 'Don't get lost out there'"
+
+Prompt when at area 2
+"Area 2
+Iems in this area:
+-Camp
+-Character Eve
+-Character Fred
+-Character Adam
+-Charatcer Steve
+-Creepy Guy
+-Weird Girl
+-Information Guy (tells you were items are located throughout the world map)
+-Entrance to area 3
+
+
+Prompt when at area 3
+"Area 3
+Items in this area:
+-Star Trek References
+-Toy Model of the Enterprise
+-Entrance to area 2
+
+
+Prompt when at area 4
+"Area 4
+Items in this area:
+-Island Mart(used to sell, trade items. Can trade wood and food for items in the mart)
+	Items within the Island Mart:
+	-Fuel
+	-Tops
+	-Jeans
+	-Hairspray
+	-Cake Mix
+	-Soda
+	-Candy
+	-Brush
+	-Paint
+	-Necklace that says "You're a WINNA-mon!"
+-Sign saying "Welcome to the Island Mart, where everyone is a WINNA-mon!
+-Entrance to Area 6
+-Entrance to area 7
+
+
+Prompt when at area 5
+"Area 5
+Items in this area:
+-Character Eve
+Eve's prompt to user ("Hello adventurer! I see you need a button. I will give you this button if you bring me 2 apples --- now get lost").
+After Eve recieves the 2 buttons ("Why Thank You!, Here is your button.")
+-Button (currently held by Eve, Eve will give this button to you only if you give her 2 apples)
+-Locked door to special Room
+-Entrance to special room (need a key to unlock) (Area 8)
+If user tries to open locked door without a key ("The door is locked" will be prompted [press Enter to continue])
+-Entrance to area 7
+-Entrance to area 3
+
+
+
+Prompt when at area 6
+"Area 6
+Items in this area:
+-Motor Piece 2
+Look - Beautfiul island display, nice sunset. Everything looks pretty
+-Entrance to area 9
+-Entrance to Area 7
+
+
+Prompt when at area 7
+"Area 7
+Items in this area:
+-The Baker Character
+When user talks to Baker, Baker prompts user ("Welcome to the island Bakery! What would you like today?)
+Possible items the Baker can make:
+-Pie
+-Corn Muffin
+-Cake
+-Cupcake
+-Donut
+-Brownie
+-Cookie
+User needs to give baker the following items to have the baker bake any of these items - prompt ("Great selection. In order for me to make this, I need you to bring me 
+2 apples, 2 bananas, 2 oranges, 2 grapes, water, and Cake Mix")
+if user has the above items, baker will bake any of the items in his bakery and take away the mentioned items"
+-Entrance to area 6
+-Entrance to area 4
+Entrance to area 5"
+
+
+Prompt when at area 8 (Locked door -- special room)
+"Special Room
+Items in this room:
+-Character Prof. Viall
+when talking to user, prompt ("Welcome to 264. Hope you had a great time in my class. Right now you currently have an F. In order to get a good grade, bring me itmes I love")
+- If user brings Viall Star Trek Reference and no Toy Model of the Enterprise, prompt ("Great, Your grade is now a C."), take away Star Trek Reference
+-If user brings Viall Toy Model of the Enterprise and no Star Trek Reference (check if Viall has Star Trek Reference in his inventory), if not, prompt use ("Great, Your grade is now a C")
+- If user brings Viall both items, prompt ("Great, Your grade is now an A") - gives user a "good grade from Prof. Viall" inventory item.
+-Entrance to Area 5"
+
+
+Prompt when at area 9
+"Area 9
+Items in this area: 9
+-Entrance to area 6
+-Entrance to area 10
+-Entrance to area 11 (cave)
+-Spark Plug
+-Toothbrush
+-Lightbulb
+-Key
+-Fishing Rod
+-Fighting Gloves"
+-Sign that says ("Beware of cave in Area 11, The bear is there and he's hungry! Don't make him mad")
+
+
+
+Prompt when at area 10
+"Area 10
+Items in this area:
+-Entrance to Area 9
+-Fishing Area (use rod to collect fish)
+-Fish
+-Hanger
+-String
+-Apples -10
+-Bananas - 6
+-Grapes - 20
+
+
+Prompt when at area 11
+"Area 11
+Items in this area:
+Sign saying - ("Welcome to the Cave. It seems that the bear is guarding a stockpile here. Try not to get killed!")
+-Character bear - prompt("I eat humans, GRRRRRRRRRRRRRRR"),
+if user talks to bear again without giving the bear fish - prompt ("RAWWWRRRRRRRRRR")
+-if user gives bear fish, bear moves out of way - prompt user ("Bear moves away from stockpile)
+-User can now search the stockpile
+Items in stockpile
+	-engine part
+	-coins
+	-skeleton
+	-rats
+	-eggs
+	-hat
+	-string
+	-dust
+Entrance to area 9
+
+User must now make his way back to home area with all of the supplies in order to fix the airplane and leave the island.
